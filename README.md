@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osur-gaetano
 - 👀 I’m interested in full stack ruby on rails web development
 - 🌱 I’m currently learning ruby on Rails + MERN Stack
-- 💞️ I’m looking to collaborate on Ruby on Rails open source projects 
+- 💞️ I’m looking to collaborate on Ruby on Rails and JavaScript open source projects 
 - 😄 Pronouns: He/Him
 
 <!---
