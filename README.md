@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osur-gaetano
-- 👀 I’m interested in full stack ruby on rails web development
+- 👀 I’m interested in backend development using java (Spring framework)
 - 🌱 I’m currently building using ruby + Rails + Java + Spring Framework
 - 💞️ I’m looking to collaborate on Ruby on Rails and JavaScript open source projects 
 - 😄 Pronouns: He/Him
