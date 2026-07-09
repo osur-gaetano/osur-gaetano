@@ -20,8 +20,10 @@ Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Detection & Monitoring
 <div>
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Windows%20Sysinternals%20ToolSuite-0078D4?&style=for-the-badge" />
 
 </div>
 
