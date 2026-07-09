@@ -13,21 +13,17 @@ Cybersecurity Analyst with hands-on incident response, SIEM, and network securit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">SIEM Lab using Splunk </a>|
-| Network Traffic Analysis | <a href="https://google.com">Network Traffic Analysis with Wireshark  </a>|
+|    | |
 
 ## Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+
 </div>
 
 ### SIEM
@@ -37,10 +33,18 @@ Cybersecurity Analyst with hands-on incident response, SIEM, and network securit
     <img src="https://img.shields.io/badge/-Wazuh-3AB7D8?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
+### Threat Inteligence
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kaspersky-009982?&style=for-the-badge&logo=Kaspersky&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MalwareBazaar-1a1a1a?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Any.run-2E2E38?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-URLhaus-000000?&style=for-the-badge" />
+</div>
+
+
 ## Certifications
 
 
 
 ## Projects
-- SIEM Lab using Splunk
-- Network Traffic Analysis with Wireshark
