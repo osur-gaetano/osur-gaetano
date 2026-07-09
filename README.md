@@ -62,7 +62,9 @@ Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, 
 <div>
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-CC0000?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-NIST%20CSF-1B1B3A?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?&style=for-the-badge&logo=OWASP&logoColor=white" />
     <img src="https://img.shields.io/badge/-ISO%2027001-0033A0?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Splunk%20PEAK%20Framework-000000?&style=for-the-badge" />
 </div>
 
 
