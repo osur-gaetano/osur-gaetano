@@ -33,7 +33,7 @@ Cybersecurity Analyst with hands-on incident response, SIEM, and network securit
     <img src="https://img.shields.io/badge/-Wazuh-3AB7D8?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-### Threat Inteligence
+### Threat Intelligence & Malware Analysis
 <div>
     <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kaspersky-009982?&style=for-the-badge&logo=Kaspersky&logoColor=white" />
