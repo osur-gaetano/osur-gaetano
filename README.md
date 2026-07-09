@@ -51,7 +51,7 @@ Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, 
     <img src="https://img.shields.io/badge/-URLhaus-000000?&style=for-the-badge" />
 </div>
 
-# Firewall & Network Security
+### Firewall & Network Security
 <div>
     <img src="https://img.shields.io/badge/-Sophos%20Firewall-2006F7?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
