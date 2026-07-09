@@ -1,13 +1,12 @@
 # Hello, I am Gaetano Osur
 <a href="https://linkedin.com/in/gaetano-osur"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a cybersecurity analyst with hands-on experience across pentesting, SOC operations, and security infrastructure. Currently, I am building towards a Tier 1 SOC Analyst role through real-world client work and self-directed labs.
+My path into cybersecurity started in IT support. Troubleshooting, hardening systems, keeping the lights on, and grew into hands-on security work across pentesting engagements, SOC operations, and infrastructure defense. Somewhere along the way, I got hooked on the investigative side of the job: chasing down what an alert actually means, tracing traffic back to its source, and figuring out whether something's noise or a real threat.
 
-I securely implement, configure, maintain, and optimize IT systems, networks, and applications in line with security policies and regulatory standards. Through hands-on IT and cybersecurity delivery, combined with personal security projects, I've built strong skills in network traffic analysis, web application testing, threat intelligence, log analysis, and security event investigation.
-
+That curiosity is what's now driving me toward a Tier 1 SOC Analyst role, and I back it up with a home lab I built from scratch and dozens of hours in hands-on SOC simulations because I'd rather learn by doing than just by reading about it.
 ## Objective
 
-Cybersecurity Analyst with hands-on incident response, SIEM, and network security experience across finance, hospitality, renewable energy, agriculture, and education sectors, seeking to transition into a Tier 1 SOC Analyst role. Experience includes leading incident response for a ransomware attack, implementing and configuring SIEM/monitoring solutions (Wazuh, ELK Stack, Splunk), and investigating 10+ security alerts across 5 client environments. Sophos Firewall Certified Engineer, pursuing EC-Council CSA, and building on a self-directed home SIEM lab and 10+ CyberDefenders/Let's Defend labs, I'm looking to bring practical, tool-agnostic detection and triage skills to a team that values proactive security and continuous learning.
+Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, and network security experience across finance, hospitality, renewable energy, agriculture, and education sectors, seeking to transition into a Tier 1 SOC Analyst role. Experience includes leading incident response for a ransomware attack, implementing and configuring SIEM/monitoring solutions (Wazuh, ELK Stack, Splunk), and investigating 10+ security alerts across 5 client environments. Sophos Firewall Certified Engineer, pursuing EC-Council CSA, and building on a self-directed home SIEM lab and 10+ CyberDefenders/Let's Defend labs, I'm looking to bring practical, tool-agnostic detection and triage skills to a team that values proactive security and continuous learning.
 
 ## Skills
 
