@@ -4,10 +4,10 @@
 
 My path into cybersecurity started in IT support. Troubleshooting, hardening systems, keeping the lights on, and grew into hands-on security work across pentesting engagements, application security, SOC operations, and infrastructure defense. Somewhere along the way, I got hooked on the investigative side of the job: chasing down what an alert actually means, tracing traffic back to its source, and figuring out whether something's noise or a real threat.
 
-That curiosity is what's now driving me toward a Tier 1 SOC Analyst role, and I back it up with a home lab I built from scratch and dozens of hours in hands-on SOC simulations because I'd rather learn by doing than just by reading about it.
+That curiosity is what's <b>now driving me toward a Tier 1 SOC Analyst role</b>, and I back it up with a <b>home lab</b> I built from scratch and <b>dozens of hours in hands-on SOC simulations </b>because I'd rather learn by doing than just by reading about it.
 ## Objective
 
-Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, and network security experience across finance, hospitality, renewable energy, agriculture, and education sectors, seeking to transition into a Tier 1 SOC Analyst role. Experience includes leading incident response for a ransomware attack, implementing and configuring SIEM/monitoring solutions (Wazuh, ELK Stack, Splunk), and investigating 10+ security alerts across 5 client environments. Sophos Firewall Certified Engineer, pursuing EC-Council CSA, and building on a self-directed home SIEM lab and 10+ CyberDefenders/Let's Defend labs, I'm looking to bring practical, tool-agnostic detection and triage skills to a team that values proactive security and continuous learning.
+Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, and network security experience across finance, hospitality, renewable energy, agriculture, and education sectors, <b>seeking to transition into a Tier 1 SOC Analyst role</b>. Experience includes leading incident response for a ransomware attack, implementing and configuring SIEM/monitoring solutions (Wazuh, ELK Stack, Splunk), and investigating 10+ security alerts across 5 client environments. Sophos Firewall Certified Engineer, pursuing EC-Council CSA, and building on a self-directed home SIEM lab and 10+ CyberDefenders/Let's Defend labs, I'm <b>looking to bring practical</b>, <b>tool-agnostic detection</b> and <b>triage skills</b> to a team that values proactive security and continuous learning.
 
 ## Skills
 
