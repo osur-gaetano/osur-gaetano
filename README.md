@@ -1,5 +1,6 @@
 # Hello, I am Gaetano Osur
 <a href="https://linkedin.com/in/gaetano-osur"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://gaetano-osur.hashnode.dev"><img src="https://img.shields.io/badge/-Hashnode-2962FF?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
 My path into cybersecurity started in IT support. Troubleshooting, hardening systems, keeping the lights on, and grew into hands-on security work across pentesting engagements, application security, SOC operations, and infrastructure defense. Somewhere along the way, I got hooked on the investigative side of the job: chasing down what an alert actually means, tracing traffic back to its source, and figuring out whether something's noise or a real threat.
 
