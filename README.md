@@ -15,7 +15,7 @@ Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, 
 |    | |
 
 ## Tools
-### Network
+### Network & Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
@@ -29,7 +29,7 @@ Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, 
 
 </div>
 
-### SIEM
+### SIEM / Log Management
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
@@ -51,9 +51,17 @@ Cybersecurity Analyst with hands-on incident response, SIEM, endpoint security, 
     <img src="https://img.shields.io/badge/-URLhaus-000000?&style=for-the-badge" />
 </div>
 
+# Firewall & Network Security
+<div>
+    <img src="https://img.shields.io/badge/-Sophos%20Firewall-2006F7?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+</div>
+
 ### Frameworks
 <div>
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-CC0000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-NIST%20CSF-1B1B3A?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-ISO%2027001-0033A0?&style=for-the-badge" />
 </div>
 
 
