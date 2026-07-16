@@ -13,7 +13,11 @@ Cybersecurity Analyst with hands-on <b>incident response</b>, <b>SIEM</b>, <b>en
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Intelligence   |[OSKI Lab](https://github.com/osur-gaetano/cyberdefender-labs/tree/main/labs/OSKI) |
+| Threat Intelligence and Threat Hunting  |[OSKI Lab](https://github.com/osur-gaetano/cyberdefender-labs/tree/main/labs/OSKI) |
+| Log Analysis and Correlation||
+| Incident detection, containment, and response ||
+|  Vulnerability assessment ||
+|  Alert triage and prioritization ||
 
 ## Tools
 ### Network & Traffic Analysis
