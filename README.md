@@ -19,6 +19,14 @@ Cybersecurity Analyst with hands-on <b>incident response</b>, <b>SIEM</b>, <b>en
 |  Vulnerability assessment ||
 |  Alert triage and prioritization ||
 
+
+| Framework                                     | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| MITRE ATT&CK  ||
+| NIST Incident Response lifecycle ||
+| Cyber Kill Chain ||
+| Splunk PEAK ||
+
 ## Tools
 ### Network & Traffic Analysis
 <div>
