@@ -84,6 +84,9 @@ Cybersecurity Analyst with hands-on <b>incident response</b>, <b>SIEM</b>, <b>en
 
 ## Certifications
 <img src="https://img.shields.io/badge/-Sophos%20Firewall%20Certified-2006F7?&style=for-the-badge" />
+<div ><img src="https://img.shields.io/badge/-EC--Council%20CSA-CC0000?&style=for-the-badge" /> - In progress\</div>
+
 
 ## Projects
 - [Cyberdefender Labs](https://github.com/osur-gaetano/cyberdefender-labs)
+- [SOC Projects](https://github.com/osur-gaetano/SOC-Projects)
