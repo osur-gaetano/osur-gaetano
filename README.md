@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/gaetano-osur"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://gaetano-osur.hashnode.dev"><img src="https://img.shields.io/badge/-Hashnode-2962FF?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
-My path into cybersecurity started in IT support. Troubleshooting, hardening systems, keeping the lights on, and grew into hands-on security <b>work across pentesting engagements</b>, <b>application security</b>, <b>SOC operations</b>, and <b>infrastructure defense</b>. Somewhere along the way, I got hooked on the investigative side of the job: <b>chasing down what an alert</b> actually means, <b>tracing traffic</b> back to its source, and figuring out whether something's noise or a real threat.
+My path into cybersecurity started in IT support. Troubleshooting, hardening systems, and keeping the lights on, and it grew into hands-on security <b>work across pentesting engagements</b>, <b>application security</b>, <b>SOC operations</b>, and <b>infrastructure defense</b>. Somewhere along the way, I got hooked on the investigative side of the job: <b>chasing down what an alert actually means </b>, <b>tracing traffic back to its source </b>, and figuring out whether something's noise or a real threat.
 
 That curiosity is what's <b>now driving me toward a Tier 1 SOC Analyst role</b>, and I back it up with a <b>home lab</b> I built from scratch and <b>dozens of hours in hands-on SOC simulations </b>because I'd rather learn by doing than just by reading about it.
 ## Objective
@@ -33,6 +33,7 @@ Cybersecurity Analyst with hands-on <b>incident response</b>, <b>SIEM</b>, <b>en
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BRIM-0078D4?&style=for-the-badge" />
 
 </div>
 
